@@ -1,6 +1,6 @@
 {
-  "name": "Demo - 100% Progress",
-  "description": "Project fully completed.",
+  "name": "MICCAI 2026 - 50% Progress",
+  "description": "Submitted",
   "steps": [
     { "label": "Idea Brainstorm",   "status": "done" },
     { "label": "Experiment Design", "status": "done" },
